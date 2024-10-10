@@ -4,11 +4,12 @@
 
 This is a static site template built using Eleventy. It requires Node.js 18, which you can check by running `node --version` in a Terminal. If Node.js isn't installed, you'll need to [install Node.js](https://nodejs.org/en/download/) before getting started. Some basic knowledge of Git is also helpful!
 
-[Image]()
+![Preview of the bloggggg.](https://imgur.com/Joa0QWC.png)
+
 
 This template is a simplified fork from [Nulite](https://github.com/codingpotions/nulite). The instructions below should allow someone with a basic understanding of web development to get the project up and running in approximately one hour.
 
-Check out a sample of the site [here]()
+Check out a sample of the site [here](https://crashing-russia-brief.on-fleek.app/)
 
 ---
 
