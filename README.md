@@ -28,6 +28,6 @@ Check out a sample of the site [here]()
 4. The `src` folder is where you can edit features on the website, including your bio, blog title, and footer information.
 5. Inside the `src` folder, the `posts` directory is where you will write your blog articles. Keep in mind that these posts are rendered in Markdown, so it helps to be familiar with the format.
 
+---
 
-
-(づ｡◕‿‿◕｡)づ 
+enjoy! (づ｡◕‿‿◕｡)づ 
