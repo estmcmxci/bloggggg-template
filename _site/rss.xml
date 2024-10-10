@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://yourwebsite.com">
+  <title>Welcome</title>
+  <subtitle></subtitle>
+  <link href="rss.xml" rel="self" />
+  <link href="https://yourwebsite.com" />
+  <updated>
+    2024-10-10T14:45:07Z
+  </updated>
+  <id>https://yourwebsite.com</id>
+  <author>
+    <name>yourens.eth</name>
+  </author>
+  <entry>
+    <title>Second Article Title</title>
+    <link href="/new.post.template/" />
+    <updated>2024-10-10T14:45:07Z</updated>
+    <id>/new.post.template/</id>
+    <content xml:lang="" type="html">
+      <div style="width: 900px; max-width: 100%; margin: 2rem auto; text-align: center;">
+  <img src="/images.posts/views.γ.jpeg" alt="image" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+</div>
+<h2><strong>Sub Title</strong></h2>
+<div style="text-align: justify;">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec odio quis odio blandit lacinia. Nulla facilisi. In in velit eu libero volutpat ullamcorper. Cras euismod libero ac tellus malesuada, nec fermentum tortor eleifend.</p>
+</div>
+<div style="text-align: justify; padding-top: 70px;">
+<p>© XXX., 2024. All rights reserved.</p>
+</div>
+
+    </content>
+  </entry>
+  <entry>
+    <title>Article Title</title>
+    <link href="/post.template/" />
+    <updated>2024-09-20T19:59:16Z</updated>
+    <id>/post.template/</id>
+    <content xml:lang="" type="html">
+      <div style="width: 900px; max-width: 100%; margin: 2rem auto; text-align: center;">
+  <img src="/images.posts/views.α.jpeg" alt="image" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+</div>
+<h2><strong>Sub Title</strong></h2>
+<div style="text-align: justify;">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec odio quis odio blandit lacinia. Nulla facilisi. In in velit eu libero volutpat ullamcorper. Cras euismod libero ac tellus malesuada, nec fermentum tortor eleifend.</p>
+</div>
+<div style="text-align: justify; padding-top: 70px;">
+<p>© XXX., 2024. All rights reserved.</p>
+</div>
+
+    </content>
+  </entry>
+</feed>
+

@@ -1,0 +1,45 @@
+---
+layout: layouts/default.liquid
+---
+
+<div class="main-sections">
+
+  <img src="/images.main/view.jpeg" alt="Profile Image">
+
+
+  <section>
+    <h2>About</h2>
+    {% assign posts = collections.posts %}
+    {% assign count = 0 %}
+    {% include "postlist.liquid" %}
+Lorem ipsum<sup>✶</sup> dolor sit amet, consectetur adipiscing elit. Curabitur vitae orci at orci vehicula consequat. Currents and priors include: Lorem ipsum dolor sit amet / consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua—follow on <a href="https://twitter.com/estmcmxci">X</a> or send an email to <a href="mailto:m@oakgroup.co">m@oakgroup.co</a>.
+ 
+
+
+ 
+  </section>
+
+  {% assign tagList = collections | postTags %} {% if tagList.length > 0 %}
+  {% endif %}
+
+  <section>
+    <h2>Posts</h2>
+    {% assign posts = collections.posts %}
+    {% assign count = 3 %}
+    {% assign offset = 0 %}
+    {% include "postlist.liquid" %}
+    <a class="articles-link" href="/articles">All the articles</a>
+  </section>
+</div>
+
+<style>
+  .main-sections {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-7);
+  }
+  .articles-link {
+    display: block;
+    margin-top: var(--space-4);
+  }
+</style>
