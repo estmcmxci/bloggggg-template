@@ -9,7 +9,7 @@ This is a static site template built using Eleventy. It requires Node.js 18, whi
 
 This template is a simplified fork from [Nulite](https://github.com/codingpotions/nulite). The instructions below should allow someone with a basic understanding of web development to get the project up and running in approximately one hour.
 
-Check out a sample of the site [here](https://crashing-russia-brief.on-fleek.app/)
+Check out a sample of the site [here](https://acoustic-yak-round.on-fleek.app/)
 
 ---
 
